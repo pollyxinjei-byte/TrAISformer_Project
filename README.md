@@ -89,14 +89,12 @@ During the reproduction process, the following limitations were observed:
 
 ## 📂 Repository Documents (Click to View)
 
-Here are the direct links to the project documentation:
-
-* 📄 **[Full Technical Report (report.pdf)](report.pdf)**
-    * Detailed analysis of the methodology, architecture, and error metrics.
-* 📊 **[Executive Summary Slides (presentation.pdf)](presentation.pdf)**
-    * High-level overview of the problem, solution, and key results.
+* 📄 **[Technical Report (report.pdf)](report.pdf)**
+   * Full analysis of methodology and error metrics.
+* 📊 **[Presentation Slides (presentation.pdf)](presentation.pdf)**
+   * Executive summary and visual results.
 * 📓 **[Experiment Logbook (logbook.pdf)](logbook.pdf)**
-    * Chronological record of code execution and training logs.
+   * Chronological record of code execution and training notes.
 
 ## ☕ Support
 If you found this project helpful for your AIS research or coursework, please consider supporting it by:
