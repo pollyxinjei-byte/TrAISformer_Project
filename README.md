@@ -87,15 +87,6 @@ During the reproduction process, the following limitations were observed:
     * *Workaround:* Early Stopping is strictly applied at Epoch 10.
 * **Python Compatibility:** The original codebase uses deprecated iterator syntax (`.next()`). This reproduction has patched it to `.__next__()` for Python 3.12 compatibility.
 
-## 📂 Repository Documents (Click to View)
-
-* 📄 **[Technical Report (report.pdf)](report.pdf)**
-   * Full analysis of methodology and error metrics.
-* 📊 **[Presentation Slides (presentation.pdf)](presentation.pdf)**
-   * Executive summary and visual results.
-* 📓 **[Experiment Logbook (logbook.pdf)](logbook.pdf)**
-   * Chronological record of code execution and training notes.
-
 ## ☕ Support
 If you found this project helpful for your AIS research or coursework, please consider supporting it by:
 
